@@ -27,6 +27,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
+        repository: cengique/lectures-prog-data-analysis
         ref: gh-pages-sp21
         path: public/sp21
         submodules: 'true'
@@ -37,6 +38,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
+        repository: cengique/lectures-prog-data-analysis
         ref: gh-pages-sp22
         path: public/sp22
         submodules: 'true'
