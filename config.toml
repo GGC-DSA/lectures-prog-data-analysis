@@ -1,4 +1,4 @@
-baseURL = "https://cengique.github.io/lectures-prog-data-analysis/"
+baseURL = "https://ggc-dsa.github.io/lectures-prog-data-analysis/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 
@@ -28,17 +28,17 @@ isHTML = true
 
     # Source Code repository section
     description = "Lectures and other resources"
-    github_repository = "https://github.com/cengique/lectures-prog-data-analysis"
+    github_repository = "https://github.com/GGC-DSA/lectures-prog-data-analysis"
     version = "0.1.1"
 
     # Settings special to the textbook
-    author = "Cengiz Günay"
+    author = "Anca Doloc-Mihu and Cengiz Gunay"
     course = "ITEC 3160 Python Programming for Data Analysis"
-    start_date = "2024/01/10"
+    start_date = "2024/08/13"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
-    github_doc_repository = "https://github.com/cengique/lectures-prog-data-analysis"
+    github_doc_repository = "https://github.com/GGC-DSA/lectures-prog-data-analysis"
 
     # Analytic section
     google_analytics_id = "" # Your Google Analytics tracking id
