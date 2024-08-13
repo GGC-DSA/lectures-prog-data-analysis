@@ -28,23 +28,23 @@ Only need programming knowledge, no need to know Python in advance!
 
 ### Meet your instructor
 
-Instructor: [Dr. Cengiz Gunay](http://www.ggc.edu/about-ggc/directory/cengiz-gunay) 
+Instructor: [Dr. Anca Doloc-Mihu](https://www.ggc.edu/directory/anca-doloc-mihu) 
 
-<!-- [Soft-Eng-Practicum Github Organization](https://soft-eng-practicum.github.io/) -->
+<!-- [GGC-DSA Github Organization](https://github.com/GGC-DSA) -->
 
-Email: cgunay@ggc.edu
+Email: adolocmihu@ggc.edu
 
-Office: Virtual and [W-2215](https://ggc-sd.github.io/ggcmaps3/#W-2215) 
-(by [appointment](https://cgunay.youcanbook.me/)) 
+Office: Virtual and [W-2208](https://ggc-sd.github.io/ggcmaps3/#W-2208) 
+(by appointment email/msg) 
 
-Phone: 678-951-9621 (also GroupMe)
+Phone: 678-459-8704
 
 ---
 
-### About the instructor: Dr Cengiz Gunay
+### About the instructor: Dr Anca Doloc-Mihu
 
-- Went to computer science grad school on artificial intelligence neural networks
-- Then, worked as [post-doctoral fellow](http://www.biology.emory.edu/research/Prinz/Cengiz/) at Emory Univ. on simulating models of biological neurons and large-scale biological data mining (e.g., SQL, neural nets, genetic algos)
+- Went to computer science grad school on information retrieval
+- Then, worked as [post-doctoral fellow](https://biology.emory.edu/research/Calabrese/) at Emory Univ. on simulating models of biological neurons and large-scale biological data mining (e.g., large databases, SQL, neural nets, genetic algos, visualisations)
 - Started teaching as visiting Faculty teaching at Emory Univ., Math & CS Dept.
 - At GGC, became IT faculty with Soft Dev focus and helped start a Data Science and Analytics major
 
