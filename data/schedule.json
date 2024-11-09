@@ -65,10 +65,15 @@
    "setup": "",
    "topic": "",
    "handson": "", "module": 1, 
-   "assignment": "read PDA Ch 8,10; project - stage 4", "days": 14},  
-  {"name": "Project presentation and review for final exam",
+   "assignment": "read PDA Ch 8,10; project - stage 4", "days": 7},  
+   {"name": "Project work and presentation",
    "setup": "",
    "topic": "",
    "handson": "", "module": 1, 
-   "assignment": "submit video explaining project code and results", "days": 7}
+   "assignment": "submit project code and results", "days": 7}
+  {"name": "Project presentations and review for the final exam",
+   "setup": "",
+   "topic": "",
+   "handson": "", "module": 1, 
+   "assignment": "quiz practice for final", "days": 7}
 ]
